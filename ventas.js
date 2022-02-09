@@ -10,6 +10,7 @@
 <body style="background-image: url(fondo.jpg);">
         <img src="fondo.jpg" alt="" width="250px">
         <h1>PERFUMES LATINOS</h1>
+        <h4>clasificacion</h4>
     <script>
         //ventas individuales//
         var nombreDelVendedor=console.log(prompt("Ingrese nombre del vendedor"));
